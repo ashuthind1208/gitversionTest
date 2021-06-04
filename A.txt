@@ -1,1 +1,2 @@
 C1 - This is initial text
+C2 - This is second commit
